@@ -8,9 +8,9 @@ Avant de commencer, assurez-vous d'avoir Node.js installé sur votre système.
 
 ## Installation
 Installez les dépendances nécessaires :
-    ```
-    npm install
-    ```
+```
+npm install
+```
 
 ## Configuration
 
@@ -42,7 +42,7 @@ Avant de commencer, assurez-vous d'avoir installé Node.js et MongoDB sur votre 
     ```
 
 2. Configurez votre base de données MongoDB :
-    - Assurez-vous que MongoDB est en cours d'exécution sur votre machine et d'avoir chargé les données nécessaires à l'aide du fichier products_data.json
+    - Assurez-vous que MongoDB est en cours d'exécution sur votre machine et d'avoir chargé les données nécessaires à l'aide du fichier `products_data.json`.
     - Vous pouvez modifier l'URL de connexion à MongoDB dans le fichier `server.js` si nécessaire.
 
 ## Démarrage du serveur
