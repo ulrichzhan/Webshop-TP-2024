@@ -26,6 +26,9 @@ npm run serve
 Le serveur de développement démarrera et vous pourrez accéder à l'application dans votre navigateur à l'adresse suivante : `http://localhost:8080`.
 
 
+
+
+
 # Backend de l'Application Web de Gestion de Produits
 
 Ce projet constitue le backend de notre application web de gestion de produits. Il s'agit d'une API construite avec Express.js qui communique avec une base de données MongoDB pour gérer les opérations CRUD (Create, Read, Update, Delete) sur les produits.
